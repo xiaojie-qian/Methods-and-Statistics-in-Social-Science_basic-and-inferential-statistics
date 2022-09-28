@@ -1,5 +1,5 @@
 # Methods-and-Statistics-in-Social-Science
-*Methods and Statistics in Social Sciences Specialization. Here is the record of Two essential courses: **Basic Statistics** and **Inferential Statistics***
+*Methods and Statistics in Social Sciences Specialization. Here is the record of two essential courses: **Basic Statistics** and **Inferential Statistics***
 <br>
 ## Course: Basic Statistics
 ### About this Course
