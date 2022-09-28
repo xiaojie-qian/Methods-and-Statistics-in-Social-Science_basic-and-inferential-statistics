@@ -83,7 +83,7 @@ Which of these events (A, B, C, D) are disjoint?
 
 - 12
 
-- **81
+- **81**
 
 - 4
 
