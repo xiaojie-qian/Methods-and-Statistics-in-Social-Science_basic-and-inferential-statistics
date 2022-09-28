@@ -14,7 +14,7 @@ Understanding statistics is essential to understand research in the social and b
 You will not only learn about all these statistical concepts, you will also be trained to calculate and generate these statistics yourself using freely available statistical software.
 <br>
 ## Course: Inferential statistics
-## About this Course 
+### About this Course 
 Inferential statistics are concerned with making inferences based on relations found in the sample, to relations in the population. Inferential statistics help us decide, for example, whether the differences between groups that we see in our data are strong enough to provide support for our hypothesis that group differences exist in general, in the entire population.
 
 - We will start by considering the basic principles of significance testing: the sampling and test statistic distribution, p-value, significance level, power and type I and type II errors. 
