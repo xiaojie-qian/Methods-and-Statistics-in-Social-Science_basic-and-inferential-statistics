@@ -1,3 +1,4 @@
+## Quizz
 The ice cream shop has problems with the delivery of the different flavours. As a consequence the shop doesn't have the same amount of flavours every day. In the following list you see the probability distribution of the different amounts of flavours.
 Amount of flavours (*probability*)
 4 (*0.14*)
