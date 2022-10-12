@@ -53,6 +53,7 @@ II. 95% of the values under the normal distribution will fall between -1.96 and 
 <br>
 9. A professor wants to know the percentage of new parents who, in the first months after having a baby, sleep more than 2 hours per night less. She wants a margin of error up to 0.10. How many parents does she have to include with a 90% confidence interval? Choose the 'safe approach'.
 >*Margin of error: 0.1, z-score (for 90%): 1.645 -> 0.25 * (1.645 ^ 2) / (0.1 ^ 2) = 67.65062*
+> Margin of Error = Z * ơ / √n 
 <br>
 
 10. You have constructed a 99% confidence interval around your sample mean of 11.4. The confidence interval is as follows: (10.1, 12.7). Imagine you take a new sample from the same population and the mean now equals 11.6. What happens to the confidence interval?  
