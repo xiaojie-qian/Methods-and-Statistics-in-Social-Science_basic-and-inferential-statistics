@@ -1,9 +1,9 @@
 ## Quizz
 1. Your friend told you about someone really smart who made a good deal with the bank regarding his/her mortgage and who knows everything about the financial crisis that started in 2008. Which of the following statements is more likely?
 
-   **I. Your friend talked about a man.**
+   I. Your friend talked about a man.
 
-   **II. Your friend talked about a man with a job in the banking world.**
+   II. Your friend talked about a man with a job in the banking world.
 
 - Statement II is more likely
 
@@ -62,7 +62,7 @@
 
 5. 
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/NThUQ6i8EeWzcxKZFP5xpQ_ba55d1f476934d69f2a5fcd9b249628f_Venn-diagram.png?expiry=1664496000000&hmac=806t39nujSyuXJDkvnVJnGyq8zhspJr8lDGR_OhFmqs](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/NThUQ6i8EeWzcxKZFP5xpQ_ba55d1f476934d69f2a5fcd9b249628f_Venn-diagram.png?expiry=1664496000000&hmac=806t39nujSyuXJDkvnVJnGyq8zhspJr8lDGR_OhFmqs)
+![image](https://user-images.githubusercontent.com/58776067/195296035-177899e6-dbe8-42b3-bcdf-42dd9a905270.png)
 
 Imagine you ask some students which subject they prefer: statistics or English. There are a lot of people that love statistics (B) and a lot of people that love English (C). However, there are also people that can't make a decision and tell you that they like both the subjects (D). When you look further into the results you realize that all the female students had a positive opinion about statistics (A).
 
@@ -128,7 +128,7 @@ Which of these events (A, B, C, D) are disjoint?
 <br>
 10. 
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Dbb1zqzPEeWDcwpBfwxWiQ_191d69d0539c0311b1d79c91ecaa94be_Naamloos.png?expiry=1664496000000&hmac=KI8VE0X6IqcZUacT8P6KAt6w5M3SsB6g3hFRa38r5pI](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Dbb1zqzPEeWDcwpBfwxWiQ_191d69d0539c0311b1d79c91ecaa94be_Naamloos.png?expiry=1664496000000&hmac=KI8VE0X6IqcZUacT8P6KAt6w5M3SsB6g3hFRa38r5pI)
+![image](https://user-images.githubusercontent.com/58776067/195296118-677f0a5b-644c-4a3c-b9d6-ee7b0a98d2fa.png)
 
 What is the probability of event A given event B?
 
