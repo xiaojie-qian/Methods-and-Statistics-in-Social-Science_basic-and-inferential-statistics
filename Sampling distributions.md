@@ -8,7 +8,7 @@
 <br>
 2.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/e6oQ2K1QEeWKww7cgKAxYw_86a78c4526bbcffe413e23fa6eda29eb_Invullen.png?expiry=1665619200000&hmac=C-bJOT8kzDbWYb7UfTWaGC7xU6KNpQaRQ4g6OuU2Wlk](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/e6oQ2K1QEeWKww7cgKAxYw_86a78c4526bbcffe413e23fa6eda29eb_Invullen.png?expiry=1665619200000&hmac=C-bJOT8kzDbWYb7UfTWaGC7xU6KNpQaRQ4g6OuU2Wlk)
+![image](https://user-images.githubusercontent.com/58776067/195296403-94316ae6-a958-4ce0-a438-a3866b1f57bf.png)
 
 
 - 1(d), 2(c), 3(a), 4(b)
@@ -19,9 +19,9 @@
 
 3. Which of the statement(s) is/are correct?
 
-I. A disadvantage of a telephone interview compared to a face-to-face questionnaire is that people tend to be less patient.
+  I. A disadvantage of a telephone interview compared to a face-to-face questionnaire is that people tend to be less patient.
 
-II. The cheapest way of collecting data is an online survey.
+  II. The cheapest way of collecting data is an online survey.
 
 - Statement II is correct, statement I is incorrect.
 - Statement I is correct, statement II is incorrect.
@@ -55,7 +55,7 @@ II. The cheapest way of collecting data is an online survey.
 <br>
 
 8. 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/rOqwia2HEeWzcxKZFP5xpQ_ce31d414f13d34b46480fd77a6c3ce7f_Distribution.gif?expiry=1665619200000&hmac=u8IqUOJojGuJ7sBtO5ebnvuSdzLTuKpLHFCvv5P-8hc](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/rOqwia2HEeWzcxKZFP5xpQ_ce31d414f13d34b46480fd77a6c3ce7f_Distribution.gif?expiry=1665619200000&hmac=u8IqUOJojGuJ7sBtO5ebnvuSdzLTuKpLHFCvv5P-8hc)
+![image](https://user-images.githubusercontent.com/58776067/195296464-ab0ac483-c716-419f-90b9-2d47b9a42aa3.png)
 
 You know that the sample size is larger than 30.
 
