@@ -24,7 +24,7 @@ II. Height (as measured in cm) is an example of a continuous random variable.
 
 3. A researcher is interested in the time people spend online on social-media per day. She plots the probability distribution for this variable using hours as the unit, and it looks as follows:
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qr0RJ6zfEeWhDQqBYtXuiQ_1c11ce7793dc0a7f765e9f0671eca8e3_Lala.png?expiry=1665532800000&hmac=Ni7mGRpWjD-xNOr2IBoLDH4ZuHRySX6XQ9--x5JE0Mg](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qr0RJ6zfEeWhDQqBYtXuiQ_1c11ce7793dc0a7f765e9f0671eca8e3_Lala.png?expiry=1665532800000&hmac=Ni7mGRpWjD-xNOr2IBoLDH4ZuHRySX6XQ9--x5JE0Mg)
+![image](https://user-images.githubusercontent.com/58776067/195295126-328f59d5-b05c-4a70-a78b-adb061ad5e2d.png)
 
 What happens to the graph if she decides to measure the time in minutes instead of hours?
 - The graph stays the same apart from the values on both axes.**
@@ -44,7 +44,7 @@ What is the probability of X being higher than 2?
 <br>
 5. You investigate the number of earthquakes that occur in a year. You get the following outcomes:
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GDSUXKznEeWzcxKZFP5xpQ_6aed1bdf79d077cf8b77cb6d8aa8bdea_Earth.png?expiry=1665532800000&hmac=uEU-JsO5pVQdG7YCQwlW9tfVQVbOVQOHzgl5h-APvwM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GDSUXKznEeWzcxKZFP5xpQ_6aed1bdf79d077cf8b77cb6d8aa8bdea_Earth.png?expiry=1665532800000&hmac=uEU-JsO5pVQdG7YCQwlW9tfVQVbOVQOHzgl5h-APvwM)
+![image](https://user-images.githubusercontent.com/58776067/195295265-e5d3575d-ff2f-4b25-b5d0-f3352f9bc892.png)
 
 What is the variance of this random phenomenon?
 >*mean = 1 * 0.03 + 2 * 0.02 = 0.07; Var = (0-0.01)^2 * 0.95 +(1-0.07)^2 * 0.03 + (2-0.07)^2 * 0.02 = 0.10054*
@@ -69,7 +69,7 @@ Give your answer as a proportion, rounding to two decimal places.
 <br>
 10.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/VxhDj6zuEeWzcxKZFP5xpQ_64189d7375b2698e35950f27282a5931_Bi.png?expiry=1665532800000&hmac=zALYhB_FuJKouvn2db_gr2BuyjCPOUj2Cfmo6JLFb7I](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/VxhDj6zuEeWzcxKZFP5xpQ_64189d7375b2698e35950f27282a5931_Bi.png?expiry=1665532800000&hmac=zALYhB_FuJKouvn2db_gr2BuyjCPOUj2Cfmo6JLFb7I)
+![image](https://user-images.githubusercontent.com/58776067/195295331-d483f2f6-ef4d-4a2d-a632-27d415c2823f.png)
 
 Looking at the binomial distribution above, what would be reasonable values for the parameters of this distribution?
 
@@ -85,7 +85,7 @@ Give your answer as a proportion, rounding to three decimal places.
 
 The total time that I wait for busses on a long trip has the following probability density function.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/M2M1hK8SEeWXZhJUARBv0w_81cbd7efac1058bc5f31d385c2233841_Rplot.png?expiry=1665532800000&hmac=kTVsast9en64KE9UL1xTsbmJUEnqIAl5WEhT5Ka2s8Y](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/M2M1hK8SEeWXZhJUARBv0w_81cbd7efac1058bc5f31d385c2233841_Rplot.png?expiry=1665532800000&hmac=kTVsast9en64KE9UL1xTsbmJUEnqIAl5WEhT5Ka2s8Y)
+![image](https://user-images.githubusercontent.com/58776067/195295403-4a7051a7-9149-4c7f-bb1e-5145efb3cf81.png)
 
 What is the chance that I will have to wait for more than 30 minutes?
 
@@ -95,7 +95,7 @@ Give your answer as a proportion, rounding to three decimal places.
 <br>
 13. 
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/N_5dc68cEeWDcwpBfwxWiQ_ac897c0fa9a043d1de574b58a381ac21_normaldist.png?expiry=1665532800000&hmac=9T6E3B_XLyl2lOK-5Q3VF9aJOMTOYWEF4jb_mlCipb4](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/N_5dc68cEeWDcwpBfwxWiQ_ac897c0fa9a043d1de574b58a381ac21_normaldist.png?expiry=1665532800000&hmac=9T6E3B_XLyl2lOK-5Q3VF9aJOMTOYWEF4jb_mlCipb4)
+![image](https://user-images.githubusercontent.com/58776067/195295468-5b99e046-a362-4991-be0f-a0a70118de74.png)
 
 The equation above describes a normal distribution for a random variable *X*.
 
@@ -116,13 +116,11 @@ Give your answer as a proportion, rounding to three decimal places.
 
 >*0.01%+0.21% = 0.22%*
 <br>
-15. Question 15
-
-The following figure shows two lines that are meant to represent the cumulative probability distribution of the age of trees in a young forest where the oldest tree is 10 years.
+15. The following figure shows two lines that are meant to represent the cumulative probability distribution of the age of trees in a young forest where the oldest tree is 10 years.
 
 What can you say about these two cumulative distribution functions (cdfs)?
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/4h2Ysa8hEeWzcxKZFP5xpQ_4820ec74e005bc1dcf76969b05e56ce1_cumprob.png?expiry=1665532800000&hmac=EUKIBhPCADvZNXhjmNLSjZDwpvyqFhI47uSnPFHWemI](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/4h2Ysa8hEeWzcxKZFP5xpQ_4820ec74e005bc1dcf76969b05e56ce1_cumprob.png?expiry=1665532800000&hmac=EUKIBhPCADvZNXhjmNLSjZDwpvyqFhI47uSnPFHWemI)
+![image](https://user-images.githubusercontent.com/58776067/195295565-a2ffb92a-fc94-4bce-bc37-96b2b0364e14.png)
 
 
 - *Neither of these is a proper cdf.*
