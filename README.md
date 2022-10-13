@@ -12,6 +12,13 @@ Understanding statistics is essential to understand research in the social and b
 - The third part of the course consists of an introduction to methods of inferential statistics - methods that help us decide whether the patterns we see in our data are strong enough to draw conclusions about the underlying population we are interested in. We will discuss confidence intervals and significance tests.
 
 You will not only learn about all these statistical concepts, you will also be trained to calculate and generate these statistics yourself using freely available statistical software.
+
+ - Probabilities and randomness
+ - Probability distributions
+ - Sampling distributions
+ - Confidence intervals
+ - Significance test
+ 
 <br>
 ## Course: Inferential statistics
 ### About this Course 
