@@ -1,7 +1,7 @@
 # Methods-and-Statistics-in-Social-Science
 *Methods and Statistics in Social Sciences Specialization. Here is the record of two essential courses: **Basic Statistics** and **Inferential Statistics***
 <br>
-## Course: Basic Statistics
+## Course: Basic Statistics (1-6) 
 ### About this Course
 Understanding statistics is essential to understand research in the social and behavioral sciences. In this course you will learn the basics of statistics; not just how to calculate them, but also how to evaluate them. This course will also prepare you for the next course in the specialization - the course Inferential Statistics. 
 
@@ -21,7 +21,7 @@ You will not only learn about all these statistical concepts, you will also be t
  
 <br>
 
-## Course: Inferential statistics
+## Course: Inferential statistics (7-12)
 ### About this Course 
 Inferential statistics are concerned with making inferences based on relations found in the sample, to relations in the population. Inferential statistics help us decide, for example, whether the differences between groups that we see in our data are strong enough to provide support for our hypothesis that group differences exist in general, in the entire population.
 
