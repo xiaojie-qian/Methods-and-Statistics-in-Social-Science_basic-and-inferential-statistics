@@ -13,6 +13,7 @@ Understanding statistics is essential to understand research in the social and b
 
 You will not only learn about all these statistical concepts, you will also be trained to calculate and generate these statistics yourself using freely available statistical software.
 
+### Description:
  - Probabilities and randomness
  - Probability distributions
  - Sampling distributions
